@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34114.132
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CauTrucNganXep", "CauTrucNganXep\CauTrucNganXep.csproj", "{4490C6E3-618A-4553-8D6B-789D3342956E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4490C6E3-618A-4553-8D6B-789D3342956E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4490C6E3-618A-4553-8D6B-789D3342956E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4490C6E3-618A-4553-8D6B-789D3342956E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4490C6E3-618A-4553-8D6B-789D3342956E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A1BE2F5E-F10F-4249-985D-653A0DFABD73}
+	EndGlobalSection
+EndGlobal
